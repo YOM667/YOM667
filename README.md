@@ -11,10 +11,14 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-B0E0E6?style=for-the-badge&logo=cplusplus&logoColor=1E90FF" />
 </div>
 
+<br/><br/><br/>
+
+
 <div>
-<img src="">
+<p align="center" ><img  src="https://avatars.githubusercontent.com/u/78844634?s=40&v=4"></p>
 <div>
 
+<br/><br/><br/>
 ## 🔬studing
 <p>
   <img alt="C#" src="https://img.shields.io/badge/Csharp-4169E1?style=for-the-badge&logo=csharp#&logoColor=B0C4DE" />
