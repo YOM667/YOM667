@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Hi I'm YouM. Welcome to here</h1>
 </div>
+<br/>
 
 <div align="center">
   <p align="center">Be good at Programing Language</p>
@@ -25,13 +26,15 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-B0E0E6?style=for-the-badge&logo=go&logoColor=6495ED" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-DB7093?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
+<br/>
 
 ## 🌠 My github info 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true&hide=stars&count_private=true" alt="YOUM667's Github Stats" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true&hide=stars&count_private=true" alt="YOUM667's Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact" />
 </div>
+<br/>
 
 ## 🖥️ My contact 
 ```kotlin
