@@ -11,6 +11,10 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-B0E0E6?style=for-the-badge&logo=cplusplus&logoColor=1E90FF" />
 </div>
 
+<div>
+<img src="">
+<div>
+
 ## 🔬studing
 <p>
   <img alt="C#" src="https://img.shields.io/badge/Csharp-4169E1?style=for-the-badge&logo=csharp#&logoColor=B0C4DE" />
@@ -21,9 +25,8 @@
 ## 🌠 My github info 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true&hide=stars&count_private=true" alt="YOUM667's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact" />
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true&hide=stars&count_private=true" alt="YOUM667's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact" />
 </div>
 
 ## 🖥️ My contact 
