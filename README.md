@@ -31,7 +31,7 @@
 ## 🌠 My github info 
 
 <div>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true&hide=stars&count_private=true" alt="YOUM667's Github Stats" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact" />
 </div>
 <br/>
