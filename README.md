@@ -31,9 +31,8 @@
 ## 🌠 My github info 
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact" />
-
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&theme=vue&langs_count=6&layout=compact&hide=html,css" />
 </div>
 <br/>
 
