@@ -15,7 +15,7 @@
 <br/>
 
 <div>
-<p align="center" ><img  src="./Head.jpg"></p>
+<p align="center" ><img style="width:200px; height:200px;"  src="./Head.jpg"></p>
 <div>
 
 <br/>
