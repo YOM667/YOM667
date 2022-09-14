@@ -37,11 +37,19 @@
 <br/>
 
 ## 🖥️ My contact 
-```kotlin
-object YouMContact{
-  val QQ = "1055965862"
-  val BiliBili = "You_M183";
-  val Github = "YOM667"
+```json
+{
+	"Contact":[
+		{
+			"QQ":"1055965862"
+		},
+		{
+			"Github":"YOM667"
+		},
+		{
+			"BiliBili" : "You_M183"
+		}
+	]
 }
 ```
 
