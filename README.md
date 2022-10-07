@@ -36,20 +36,3 @@
 </div>
 <br/>
 
-## 🖥️ My contact 
-```json
-{
-	"Contact":[
-		{
-			"QQ":"1055965862"
-		},
-		{
-			"Github":"YOM667"
-		},
-		{
-			"BiliBili" : "You_M183"
-		}
-	]
-}
-```
-
