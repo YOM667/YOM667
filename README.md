@@ -20,7 +20,7 @@
 
 <br/>
   
-## 🔬Studing
+## 🔬Studying
 <p>
   <img alt="C#" src="https://img.shields.io/badge/Csharp-4169E1?style=for-the-badge&logo=csharp#&logoColor=B0C4DE" />
   <img alt="Go" src="https://img.shields.io/badge/Go-B0E0E6?style=for-the-badge&logo=go&logoColor=6495ED" />
