@@ -20,7 +20,7 @@
 
 <br/>
   
-## 🔬studing
+## 🔬Studing
 <p>
   <img alt="C#" src="https://img.shields.io/badge/Csharp-4169E1?style=for-the-badge&logo=csharp#&logoColor=B0C4DE" />
   <img alt="Go" src="https://img.shields.io/badge/Go-B0E0E6?style=for-the-badge&logo=go&logoColor=6495ED" />
@@ -28,11 +28,11 @@
 </p>
 <br/>
 
-## 🌠 My github info 
+## 🌠 Info 
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=vue&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css,Jupyter+Notebook,ruby,Batchfile&theme=vue&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=react&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css,Jupyter+Notebook,ruby,Batchfile&theme=react&langs_count=6" />
 </div>
 <br/>
 
