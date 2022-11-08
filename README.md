@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-![](https://raw.githubusercontent.com/YOM667/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/YOM667/YOM667/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center">
   <p align="center">Be good at Programing Language</p>
