@@ -4,6 +4,8 @@
 </div>
 <br/>
 
+![](https://raw.githubusercontent.com/YOM667/main/assets/github-contribution-grid-snake.svg)
+
 <div align="center">
   <p align="center">Be good at Programing Language</p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
