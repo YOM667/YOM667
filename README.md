@@ -2,7 +2,6 @@
   <h1 align="center">Hi I'm YouM. Welcome to here</h1>
   <p align="center">I'm a student in China</p>
 </div>
-<br/>
 
 <div align="center">
   <p align="center">Be good at Programing Language</p>
@@ -33,7 +32,7 @@
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=react&show_icons=true" />
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css&layout=compact&theme=react" alt="Top Languages"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css,shell&layout=compact&theme=react"/>
 </div>
 <br/>
 
