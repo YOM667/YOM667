@@ -9,6 +9,6 @@
 <br/>
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YOM667&theme=react&show_icons=true" />
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css,shell&layout=compact&theme=react"/>
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=html,css,shell&theme=react"/>
 </div>
 
