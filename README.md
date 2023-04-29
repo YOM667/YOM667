@@ -4,7 +4,6 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![rust](https://img.shields.io/badge/-rust-blue?style=for-the-badge&logo=rust&logoColor=blue&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
-![vue](https://img.shields.io/badge/-vue-blue?style=for-the-badge&logo=vue.js&logoColor=white)
 ![react](https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ## Summary
