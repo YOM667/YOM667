@@ -7,7 +7,7 @@
 ![react](https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react&logoColor=white)
 
 <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=YOM667&show_icons=true" />
-<img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&layout=compact" alt="Top Languages"/>
+<img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOM667&hide=batchfile&layout=compact" alt="Top Languages"/>
 
 ## About
 - like play Minecraft LOL and CSGO.
