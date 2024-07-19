@@ -12,4 +12,4 @@
 
 ## About
 - like play Minecraft LOL and CSGO.
-- My personal [blog](youm.netlify.app)
+- My personal [blog](y0um.icu)
